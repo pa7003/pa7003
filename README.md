@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pa7003
 - 👀 I’m interested in Coding, listening Music
 - 🌱 I’m currently learning Java, Javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @singh_parth.x
 - 😄 Pronouns: he/him
 
 
