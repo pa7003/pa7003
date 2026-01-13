@@ -94,7 +94,20 @@ Data Analyst Intern – LearnTricks (Remote)
 🏅 Summer Analytics 2025
 
 📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pa7003&show_icons=true&theme=tokyonight&border_radius=12" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pa7003&theme=tokyonight&border_radius=12" height="165"/> </div>
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=pa7003"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pa7003"
+  height="165"
+/>
+
+</div>
+
 🤝 Let’s Connect
 
 💼 Open to Internships & Research Roles
