@@ -148,7 +148,7 @@ Streamlit interface
 
 ---
 
-# 📊 NVIDIA STYLE GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
