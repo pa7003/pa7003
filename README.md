@@ -1,117 +1,237 @@
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 35px; border-radius: 18px;">
+<!-- ======================== HEADER ======================== -->
 
-  <h1 style="color:#ffffff; font-size:42px; letter-spacing:1px;">
-    👋 Hi, I'm <span style="color:#00e6e6;">Parth Singh</span>
-  </h1>
+<h1 align="center">Hi 👋, I'm Parth Singh</h1>
+<h3 align="center">🚀 AI Engineer | Machine Learning | NLP | Data Science</h3>
 
-  <h3 style="color:#cfd9df; font-weight:400;">
-    Data Scientist • Machine Learning Engineer • IIT Mandi
-  </h3>
-
-  <p style="color:#b8c6db; max-width:800px; font-size:16px;">
-    Analytical and results-driven Data Science professional with strong expertise in
-    Machine Learning, Deep Learning, and AI systems. Passionate about building
-    scalable, real-world AI solutions that create measurable impact.
-  </p>
-
-  <br>
-
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:pssingh71003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-
-</div>
-
-<br>
+<p align="center">
+Building intelligent systems using Machine Learning, Deep Learning and LLMs
+</p>
 
 ---
 
-## 🚀 About Me
+<!-- ======================== BANNER ======================== -->
 
-- 🎓 **Minor Degree in Data Science & Machine Learning** – IIT Mandi  
-- 🎓 **B.Tech in Information Technology**
-- 🧠 Strong foundation in **ML, NLP, CV & Deep Learning**
-- 💡 I love turning **complex data into business-ready insights**
-- 🔍 Actively seeking **Data Science / ML / Data Engineering Internships**
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B00FF&height=200&section=header&text=Parth%20Singh%20AI%20Engineer&fontSize=40&fontAlignY=35&animation=twinkling"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ======================== TYPING ANIMATION ======================== -->
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,linux,mysql,postgres,opencv,streamlit" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;AI+Engineer;NLP+Developer;LLM+Builder;RAG+System+Developer"/>
+</p>
 
 ---
 
-## 📊 Core Skills
+# 🧠 About Me
 
-text
-• Programming        : Python, SQL, Bash
-• Machine Learning   : Regression, Classification, Clustering, Time Series
-• Deep Learning      : CNNs, RNNs, Transformers, GANs
-• NLP & CV           : RoBERTa, DistilBERT, Text Classification, Image Processing
-• Big Data           : Apache Spark, Hadoop, Databricks
-• Visualization      : Power BI, Tableau, Matplotlib, Seaborn
-• Data Engineering   : ETL Pipelines, Data Wrangling
+```python
+class ParthSingh:
 
-## 🧠 Featured Projects
-🔹 AI vs Human Text Detection
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.education = "B.Tech IT + Data Science & ML (IIT Mandi)"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Transformers",
+            "RAG Systems"
+        ]
 
-Tech: RoBERTa, DistilBERT, PyTorch, NLP
-✔ Achieved 95% accuracy
-✔ Built explainable AI with confidence scores
-✔ Deployed interactive app using Streamlit
+    def currently_learning(self):
+        return [
+            "Large Language Models",
+            "Advanced RAG Systems",
+            "AI Agents"
+        ]
+```
 
-🔹 Fraud Detection System
+---
 
-Tech: Random Forest, Scikit-learn
-✔ 95% accuracy & high F1-score
-✔ Reduced manual review effort by 20%
-✔ End-to-end ML pipeline with feature engineering
+# 🚀 Featured Projects
 
-## 💼 Experience
+## 🔎 Hybrid RAG System for AI Research Papers
 
-Data Analyst Intern – LearnTricks (Remote)
-✔ Processed large e-commerce datasets
-✔ Built dashboards improving cross-sell by 20%
-✔ Boosted customer satisfaction by 15%
+Pipeline
 
-## 📜 Certifications
+```
+User Query
+↓
+BM25 Retrieval
+↓
+FAISS Semantic Search
+↓
+Context Ranking
+↓
+LLM Answer Generation
+```
 
-🏅 Deloitte Australia – Data Analytics Simulation
+Tech Stack
 
-🏅 Google AI Essentials
+```
+Python
+SentenceTransformers
+FAISS
+BM25
+Pandas
+HuggingFace
+```
 
-🏅 Summer Analytics 2025
+Features
 
-## 📈 GitHub Stats
-<div align="center">
+✔ Hybrid Retrieval  
+✔ Semantic Search  
+✔ Precision@k Evaluation  
+✔ Modular Pipeline  
 
-<img
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=pa7003&show_icons=true&theme=tokyonight&cache_seconds=1800"
-/>
+---
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=pa7003&theme=tokyonight&border_radius=12" height="165"
-/>
+## 🤖 AI vs Human Text Detection
 
-</div>
+Transformer-based system detecting **AI-generated vs Human text**
 
-🤝 Let’s Connect
+Models
 
-💼 Open to Internships & Research Roles                                                                                                                                                                             
-📧 Email: pssingh71003@gmail.com
+```
+RoBERTa
+DistilBERT
+```
 
-📍 India
+Features
 
-<div align="center" style="color:#888;"> <b>⭐ If you like my work, consider starring my repositories!</b> </div> 
+✔ Transformer fine-tuning  
+✔ NLP feature engineering  
+✔ Streamlit interface  
+✔ Explainable predictions  
+
+Accuracy
+
+```
+86% classification accuracy
+```
+
+---
+
+# 🧠 Tech Stack
+
+### Programming
+
+![Python](https://skillicons.dev/icons?i=python)
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+### Machine Learning
+
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![ScikitLearn](https://skillicons.dev/icons?i=sklearn)
+
+---
+
+### Data Tools
+
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+
+---
+
+### Visualization
+
+![PowerBI](https://skillicons.dev/icons?i=powerbi)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pa7003&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa7003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pa7003&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pa7003&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/parth-singh-728119244">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pssingh71003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/pa7003">
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pa7003&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 🧠 Currently Learning
+
+- Transformers Architecture  
+- LLM Engineering  
+- Advanced RAG Systems  
+- AI Agents  
+
+---
+
+# ⭐ Quote
+
+```
+The future belongs to those who build intelligent systems.
+```
+
+---
+
+<p align="center">
+
+⭐ Star my repositories if you find them useful!
+
+</p>
